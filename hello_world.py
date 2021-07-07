@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
 """
-Simple Hello World program in Python
-Created: July 7, 2021
+Hello World Python Script
+A simple Python program that prints "Hello, World!" to the console.
 """
 
 def main():
-    """Main function to print Hello World message"""
+    """Main function that prints Hello World message."""
     print("Hello, World!")
     print("Welcome to Python programming!")
 
